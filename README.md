@@ -21,7 +21,7 @@
 Файл с отчетом по взаимодействию с партнерами: 
 
 
-https://site.github.io
+https://dianakwkdj.github.io
 https://dianakwkdj.github.io/Project-practice/
 
 

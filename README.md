@@ -21,7 +21,7 @@
 Файл с отчетом по взаимодействию с партнерами: 
 
 
-https://ivanov.github.io
+https://site.github.io
 
 
 
